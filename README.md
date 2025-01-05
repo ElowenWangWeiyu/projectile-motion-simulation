@@ -1,14 +1,14 @@
 # projectile-motion-simulation
 This project uses laws of kinematics to simulate the trajectory of a projectile under the influence of gravity, based on user-defined initial conditions. It provides a graphical visualization of the motion.
 
-## features
+## Features
 
 - Customizable initial velocity and launch angle.
 - Adjustable simulation time and time resolution.
 - Interactive plot of the projectile's trajectory.
 - Real-time filtering of invalid inputs for a smooth user experience.
 
-## how to use
+## How to use
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using: %pip install numpy matplotlib
@@ -19,7 +19,7 @@ This project uses laws of kinematics to simulate the trajectory of a projectile 
 - Total simulation time (seconds)
 - Number of time steps
 
-## example input:
+## Example input:
 
 - Enter the initial velocity (m/s): 20
 - Enter the launch angle (degrees): 45
