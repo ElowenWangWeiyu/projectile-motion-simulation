@@ -39,4 +39,6 @@ Here’s an example of the projectile's trajectory with labeled axes and key par
 - `numpy`
 
 ## License
-This project is licensed under the MIT License
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
