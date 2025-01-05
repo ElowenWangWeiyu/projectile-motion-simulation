@@ -18,11 +18,13 @@ This project uses laws of kinematics to simulate the trajectory of a projectile 
 - Launch angle (degrees)
 - Total simulation time (seconds)
 - Number of time steps
-example input:
-Enter the initial velocity (m/s): 20
-Enter the launch angle (degrees): 45
-Enter the total simulation time (seconds): 5
-Enter the number of time steps: 100
+
+## example input:
+
+- Enter the initial velocity (m/s): 20
+- Enter the launch angle (degrees): 45
+- Enter the total simulation time (seconds): 5
+- Enter the number of time steps: 100
 
 ## Example Output
 
