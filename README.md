@@ -30,6 +30,8 @@ This project uses laws of kinematics to simulate the trajectory of a projectile 
 
 Here’s an example of the projectile's trajectory with labeled axes and key parameters, when the input is as example input:
 
+![Example Trajectory](example%20trajectory%20of%20a%20projectile%20motion.png)
+
 ## Dependencies
 
 - Python 3.x
