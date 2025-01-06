@@ -11,7 +11,7 @@ This project uses laws of kinematics to simulate the trajectory of a projectile 
 ## How to use
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using: %pip install numpy matplotlib
+2. Install the required dependencies using: pip install numpy matplotlib
 3. Run the script:
 4. Follow the prompts to input:
 - Initial velocity (m/s)
